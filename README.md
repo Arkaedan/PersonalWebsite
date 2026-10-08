@@ -1,2 +1,2 @@
 # PersonalWebsite
-Personal website for Sam Harrus
+Personal website for Sam Harris
